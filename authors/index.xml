@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | D. Alp</title>
+    <link>https://dorukalp.github.io/authors/</link>
+      <atom:link href="https://dorukalp.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dorukalp.github.io/img/%28c%29</url>
+      <title>Authors</title>
+      <link>https://dorukalp.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://dorukalp.github.io/authors/admin/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://dorukalp.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently an assistant professor of petroleum &amp;amp; natural gas engineering at METU NCC. I teach a wide range of subjects, ranging from fluid mechanics to drilling to enhanced oil recovery methods. I supervise MSc theses, undergraduate projects and internships; and co-advise PhD theses.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

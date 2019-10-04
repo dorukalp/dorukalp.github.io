@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | D. Alp</title>
+    <link>https://dorukalp.github.io/categories/courses/</link>
+      <atom:link href="https://dorukalp.github.io/categories/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dorukalp.github.io/img/%28c%29</url>
+      <title>Courses</title>
+      <link>https://dorukalp.github.io/categories/courses/</link>
+    </image>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://dorukalp.github.io/pages/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://dorukalp.github.io/pages/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Introduction to Fluid Mechanics, Must course, Spring semesters since 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Drilling Engineering I, Must course, Fall semesters since 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Drilling Engineering II, Must course, Spring 2017.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Petroleum Engineering Project Design I, Must course, Fall semesters since 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Enhanced Oil Recovery, Elective course, Spring semesters since 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mathematical Modeling of Hydrocarbon Reservoirs, Elective course, Fall semesters since 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Special Topics: Surface Operations, Elective course, Spring semesters since 2018.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I developed this course as a new technical elective for the program. Course covers thermal-hydraulic calculations for single phase (liquid or gas) and two-phase flow (homogeneous model and Beggs &amp;amp; Brill correlation) in surface pipes, solution of pipe networks, phase equilibrium of hydrocarbon mixtures at the separator; and design of separator dimensions for physical separation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
