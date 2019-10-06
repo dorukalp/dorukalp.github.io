@@ -5,7 +5,7 @@
     <link>https://dorukalp.github.io/tags/academic/</link>
       <atom:link href="https://dorukalp.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dorukalp.github.io/img/icon-192.png</url>
       <title>Academic</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Academic</title>
-      <link>https://dorukalp.github.io/pages/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/pages/</guid>
+      <title>METU-NCC courses</title>
+      <link>https://dorukalp.github.io/post/courses/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorukalp.github.io/post/courses/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Introduction to Fluid Mechanics, Must course, Spring semesters since 2016.&lt;/p&gt;&lt;/li&gt;
 

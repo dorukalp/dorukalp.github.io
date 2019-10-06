@@ -5,7 +5,7 @@
     <link>https://dorukalp.github.io/categories/</link>
       <atom:link href="https://dorukalp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dorukalp.github.io/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Courses</title>
       <link>https://dorukalp.github.io/categories/courses/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://dorukalp.github.io/categories/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pages</title>
+      <link>https://dorukalp.github.io/categories/pages/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorukalp.github.io/categories/pages/</guid>
       <description></description>
     </item>
     

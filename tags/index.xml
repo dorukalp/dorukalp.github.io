@@ -5,7 +5,7 @@
     <link>https://dorukalp.github.io/tags/</link>
       <atom:link href="https://dorukalp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dorukalp.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>About</title>
+      <link>https://dorukalp.github.io/tags/about/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://dorukalp.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Academic</title>
       <link>https://dorukalp.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://dorukalp.github.io/tags/academic/</guid>
       <description></description>
     </item>

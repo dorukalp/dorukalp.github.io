@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Alp</title>
-    <link>https://dorukalp.github.io/authors/admin/</link>
-      <atom:link href="https://dorukalp.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>D. Alp</description>
+    <title>Posts | D. Alp</title>
+    <link>https://dorukalp.github.io/post/</link>
+      <atom:link href="https://dorukalp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dorukalp.github.io/img/icon-192.png</url>
-      <title>D. Alp</title>
-      <link>https://dorukalp.github.io/authors/admin/</link>
+      <title>Posts</title>
+      <link>https://dorukalp.github.io/post/</link>
     </image>
     
     <item>
