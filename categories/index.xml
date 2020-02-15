@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | D. Alp</title>
+    <title>Categories | </title>
     <link>https://dorukalp.github.io/categories/</link>
       <atom:link href="https://dorukalp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Doruk Alp, PhD</copyright><lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Doruk Alp, PhD</copyright><lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dorukalp.github.io/img/icon-192.png</url>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Categories</title>
       <link>https://dorukalp.github.io/categories/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Courses</title>
       <link>https://dorukalp.github.io/categories/courses/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://dorukalp.github.io/categories/courses/</guid>
       <description></description>
     </item>
