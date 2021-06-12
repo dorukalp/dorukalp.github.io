@@ -1,30 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://dorukalp.github.io/</link>
-      <atom:link href="https://dorukalp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Doruk Alp, PhD</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <title>Doruk Alp, PhD</title>
+    <link>dorukalp.netlify.app/</link>
+      <atom:link href="dorukalp.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Doruk Alp, PhD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019 - 2021 Doruk Alp, PhD</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title></title>
-      <link>https://dorukalp.github.io/</link>
+      <url>/dorukalp.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Doruk Alp, PhD</title>
+      <link>dorukalp.netlify.app/</link>
     </image>
     
     <item>
+      <title>Example Talk</title>
+      <link>dorukalp.netlify.app/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Note from Thraiye Hemed, class of 2020</title>
+      <link>dorukalp.netlify.app/post/2020_hemed/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/2020_hemed/</guid>
+      <description>&lt;p&gt;Thraiye Hemed, class of 2020, won SPE Europe student paper contest in Zagrep, Crotia.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-2020_Hemed&#34; href=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2020_hemed/20210612_000914.jpg&#34; &gt;
+      &lt;img src=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2020_hemed/20210612_000914_hu0d2d1a12a145eb8534a7e0f77b8420fe_613298_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;20210612_000914.jpg&#34; width=&#34;202&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Undergrad Posters</title>
-      <link>https://dorukalp.github.io/posters/</link>
+      <link>dorukalp.netlify.app/landing_posters/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/posters/</guid>
+      <guid>dorukalp.netlify.app/landing_posters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Note from Yusuf Shakeel, class of 2019</title>
-      <link>https://dorukalp.github.io/post/2019_note_shakeel/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/post/2019_note_shakeel/</guid>
+      <link>dorukalp.netlify.app/post/2019_shakeel/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/2019_shakeel/</guid>
       <description>
 
 
@@ -33,8 +89,7 @@
 
 
 
-  
-  
+
 
 
 &lt;div class=&#34;gallery&#34;&gt;
@@ -42,27 +97,25 @@
   
   
   
-  
     
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dorukalp.github.io/post/2019_note_shakeel/gallery/Shakeel2019_thankyouNote_fin.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://dorukalp.github.io/post/2019_note_shakeel/gallery/Shakeel2019_thankyouNote_fin_hu3c15d6ba4234ba8de6ba3f650d73223f_1827330_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;262&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
+    &lt;a data-fancybox=&#34;gallery-2019_Shakeel&#34; href=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_shakeel/InkedShakeel2019_thankyouNote_LI.jpg&#34; &gt;
+      &lt;img src=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_shakeel/InkedShakeel2019_thankyouNote_LI_hu8f247dc7b2ed912aa7dfae59c851bfd4_2463535_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;InkedShakeel2019_thankyouNote_LI.jpg&#34; width=&#34;262&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
   
 
-  
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Classroom pictures by Ahmed Magdy, class of 2019</title>
-      <link>https://dorukalp.github.io/post/2019_gallery_magdy/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/post/2019_gallery_magdy/</guid>
+      <link>dorukalp.netlify.app/post/2019_magdy/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/2019_magdy/</guid>
       <description>&lt;p&gt;Some nice pics by Ahmed Magdy, class of 2019, whom I was the academic advisor for ~3 years.&lt;/p&gt;
 
 
@@ -72,8 +125,7 @@
 
 
 
-  
-  
+
 
 
 &lt;div class=&#34;gallery&#34;&gt;
@@ -81,107 +133,86 @@
   
   
   
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-2019_Magdy&#34; href=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_01b.jpg&#34; &gt;
+      &lt;img src=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_01b_hu4b044cba8afa0df19877dd5663625e44_123433_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Magdy2019_01b.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
   
     
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_01b.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_01b_hu4b044cba8afa0df19877dd5663625e44_123433_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
+    &lt;a data-fancybox=&#34;gallery-2019_Magdy&#34; href=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_02b.jpg&#34; &gt;
+      &lt;img src=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_02b_huf8c4605be6767697b17d7bfc3ddb46fc_176359_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Magdy2019_02b.jpg&#34; width=&#34;308&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
   
     
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_02b.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_02b_huf8c4605be6767697b17d7bfc3ddb46fc_176359_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;308&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
+    &lt;a data-fancybox=&#34;gallery-2019_Magdy&#34; href=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_03.jpg&#34; &gt;
+      &lt;img src=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_03_hu988ad837f4b6f8845a64d9ac42620284_136976_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Magdy2019_03.jpg&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
   
     
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_03.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_03_hu988ad837f4b6f8845a64d9ac42620284_136976_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_04.jpg&#34; &gt;
-  &lt;img data-src=&#34;https://dorukalp.github.io/post/2019_gallery_magdy/gallery/Magdy2019_04_hu3a9d3ec5901924897ba77093c9d5594c_148286_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;107&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
+    &lt;a data-fancybox=&#34;gallery-2019_Magdy&#34; href=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_04.jpg&#34; &gt;
+      &lt;img src=&#34;dorukalp.netlify.app/dorukalp.netlify.app/media/albums/2019_magdy/Magdy2019_04_hu3a9d3ec5901924897ba77093c9d5594c_148286_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Magdy2019_04.jpg&#34; width=&#34;107&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
   
 
-  
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>METU-NCC courses</title>
-      <link>https://dorukalp.github.io/post/courses/</link>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/post/courses/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Introduction to Fluid Mechanics, Must course, Spring semesters since 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Drilling Engineering I, Must course, Fall semesters since 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Drilling Engineering II, Must course, Spring 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Petroleum Engineering Project Design I, Must course, Fall semesters since 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Enhanced Oil Recovery, Elective course, Spring semesters since 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mathematical Modeling of Hydrocarbon Reservoirs, Elective course, Fall semesters since 2016.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Special Topics: Surface Operations, Elective course, Spring semesters 2018, 2019.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I developed this course as a new technical elective for the program. Course covers thermal-hydraulic calculations for single phase (liquid or gas) and two-phase flow (homogeneous model and Beggs &amp;amp; Brill correlation) in surface pipes, solution of pipe networks, phase equilibrium of hydrocarbon mixtures at the separator; and design of separator dimensions for physical separation.&lt;/p&gt;
-&lt;ol start=&#34;8&#34;&gt;
-&lt;li&gt;Petroleum Engineering Project Design II, Must course, Spring 2020.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://dorukalp.github.io/post/about_me/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/post/about_me/</guid>
-      <description>&lt;p&gt;work in progress now&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>About my pages</title>
-      <link>https://dorukalp.github.io/post/about_mypages/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/post/about_mypages/</guid>
-      <description>&lt;p&gt;About these pages&lt;/p&gt;
+      <link>dorukalp.netlify.app/post/about_mypages/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/about_mypages/</guid>
+      <description>&lt;p&gt;I, Doruk Alp, build, post &amp;amp; maintain these pages myself using freely available tools.&lt;/p&gt;
+&lt;p&gt;These pages are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;last updated on Sat., Jun. 12, 2021. Using Wowchemy.&lt;/li&gt;
+&lt;li&gt;updated on Fri., Feb. 14, 2020. Using Academic Theme for Hugo.&lt;/li&gt;
+&lt;li&gt;first posted on Sun., Oct. 6, 2019. Using Academic Theme for Hugo.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Recommendation Letters and Referee Lists</title>
-      <link>https://dorukalp.github.io/post/recommend/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://dorukalp.github.io/post/recommend/</guid>
+      <title>METU-NCC Courses</title>
+      <link>dorukalp.netlify.app/post/courses/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/courses/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Introduction to Fluid Mechanics, Spring semesters since 2016.&lt;/li&gt;
+&lt;li&gt;Drilling Engineering I, Fall semesters since 2016.&lt;/li&gt;
+&lt;li&gt;Drilling Engineering II, Spring 2017.&lt;/li&gt;
+&lt;li&gt;Petroleum Engineering Project Design I, Fall semesters since 2016.&lt;/li&gt;
+&lt;li&gt;Petroleum Engineering Project Design II, Spring semesters since 2020.&lt;/li&gt;
+&lt;li&gt;Enhanced Oil Recovery, Spring 2016 - 2020.&lt;/li&gt;
+&lt;li&gt;Mathematical Modeling of Hydrocarbon Reservoirs, Fall semesters since 2016.&lt;/li&gt;
+&lt;li&gt;Special Topics: Surface Operations, Spring 2018, 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I developed Surf. Ops. course as a new technical elective for the program. Course covers thermal-hydraulic calculations for single phase (liquid or gas) and two-phase flow (homogeneous model and Beggs &amp;amp; Brill correlation) in surface pipes, solution of pipe networks, phase equilibrium of hydrocarbon mixtures at the separator; and design of separator dimensions for physical separation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommendation Letters</title>
+      <link>dorukalp.netlify.app/post/recommend/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/recommend/</guid>
       <description>&lt;p&gt;In one form or another, we all give and take feedback from everyone around us. We form our impressions of others, and our reputation gradually develops. Recommendation letters are the formal version of such feedback mechanism.&lt;/p&gt;
 &lt;p&gt;I would like to support my students where possible. However, &amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;1-should-you-ask-me-for-a-letter-of-recommendation-or-should-i-be-on-your-referee-list&#34;&gt;1 .Should you ask me for a letter of recommendation or should I be on your referee list?&lt;/h2&gt;
@@ -228,9 +259,8 @@
 &lt;p&gt;Understand that due to busy schedule, I am not always be available or able to respond your emails. And once if I cannot answer your email within the couple days it was sent, I may never have a chance to get a back to it. So, do not hesitate to write several times until you get a response, for better or worse.&lt;/p&gt;
 &lt;p&gt;Timing: Tell me at least 4 weeks before due date.&lt;/p&gt;
 &lt;p&gt;Remind me! I have a busy schedule and I am not annoyed if you are reminding me about a letter that I promised you.&lt;/p&gt;
-&lt;p&gt;Dr. P. Tanedo suggests a good rule of thumb is to remind every half-life before the due date.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Half-life rule:&lt;/strong&gt; If you last reminded me about your letter some time t before due date, remind me again when it is t/2 before the due date.
-[\]: # (&lt;a href=&#34;https://theory.ucr.edu/flip/recs/&#34;&gt;https://theory.ucr.edu/flip/recs/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Dr. P. Tanedo suggests a good rule of thumb is to remind every half-life before the due date. &lt;a href=&#34;https://theory.ucr.edu/flip/recs/&#34;&gt;https://theory.ucr.edu/flip/recs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Half-life rule:&lt;/strong&gt; If you last reminded me about your letter some time t before due date, remind me again when it is t/2 before the due date.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If you have multiple applications:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -244,6 +274,175 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>dorukalp.netlify.app/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>dorukalp.netlify.app/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>dorukalp.netlify.app/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>dorukalp.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/admin/config.yml</guid>
+      <description></description>
     </item>
     
   </channel>

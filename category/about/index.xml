@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About | Doruk Alp, PhD</title>
+    <link>dorukalp.netlify.app/category/about/</link>
+      <atom:link href="dorukalp.netlify.app/category/about/index.xml" rel="self" type="application/rss+xml" />
+    <description>About</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2019 - 2021 Doruk Alp, PhD</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/dorukalp.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>About</title>
+      <link>dorukalp.netlify.app/category/about/</link>
+    </image>
+    
+    <item>
+      <title>About my pages</title>
+      <link>dorukalp.netlify.app/post/about_mypages/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>dorukalp.netlify.app/post/about_mypages/</guid>
+      <description>&lt;p&gt;I, Doruk Alp, build, post &amp;amp; maintain these pages myself using freely available tools.&lt;/p&gt;
+&lt;p&gt;These pages are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;last updated on Sat., Jun. 12, 2021. Using Wowchemy.&lt;/li&gt;
+&lt;li&gt;updated on Fri., Feb. 14, 2020. Using Academic Theme for Hugo.&lt;/li&gt;
+&lt;li&gt;first posted on Sun., Oct. 6, 2019. Using Academic Theme for Hugo.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
